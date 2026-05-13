@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+.head2{
+    display: flex;
+    gap: 5%;
+}
+.button1{
+    background-color: rgb(255, 68, 0);
+    color: white;
+    padding: 20px;
+    
+}
