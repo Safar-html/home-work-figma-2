@@ -136,3 +136,10 @@
     color: white;
     background-color: rgb(144, 38, 0);
 }
+.end{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    text-align: center;
+}
