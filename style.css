@@ -48,3 +48,27 @@
     top: 400px;
     left: 700px;
 }
+.section2{
+    margin: 200px 300px ;
+    display: flex;
+}
+.image4{
+    position: absolute;
+
+}
+.image5{
+    position: absolute;
+    left: 500px;
+    bottom: -800px;
+}
+.logos{
+    display: flex;
+    justify-content: center;
+    gap: 7%;
+}
+.hz{
+    margin-left: 500px; ;
+}
+.blue{
+    color: blue;
+}
