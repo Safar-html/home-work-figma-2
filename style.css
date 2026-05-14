@@ -16,3 +16,35 @@
     padding: 20px;
     
 }
+.lll{
+    font-size: 70px;
+}
+.section1{
+    margin: 200px 300px ;
+    display: flex;
+}
+.p1{
+    font-size: 20px;
+}
+.button2{
+    background-color: rgb(66, 66, 255);
+    color: white;
+    padding: 20px;
+    width: 200px;
+}
+.image1{
+    position: absolute;
+    z-index: 1;
+}
+.image2{
+    position: absolute;
+    z-index: 2;
+    top: 700px;
+    left: 1080px;
+}
+.image3{
+    position: absolute;
+    z-index: 0;
+    top: 400px;
+    left: 700px;
+}
